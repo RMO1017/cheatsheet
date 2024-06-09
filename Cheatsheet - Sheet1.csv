@@ -1,0 +1,7 @@
+Continuous,"Infinite number of values between two points. Spread, center, skew etc; show differences in intervals and ratios",Scatterplots,Show relationship between two continuous variables
+Discrete,"Count of a characteristic, result, item or action. Cannot be divided into smaller increments",Time Series,Useful for showing a sequence of data over time.
+Categorical,Data in categories. Usually interested in ratios and proportions,Histogram,Graph continuous data into bins to see distribution
+Binary,Can onlt have two values,Boxplots,Also called 'box and whisker diagrams' Shows spread and skewness
+Ordinal,Categorical data that comes with a natural order/progression,Individual Value Plots,Useful for small data sets (>50)
+,,Bar Charts,Bars do not touch and each bar displays count of distinct value
+,,Pie Charts,Ideal for categorical data because they show proportion relative to whole
